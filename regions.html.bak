@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta content="text/html; charset=windows-1251" http-equiv="content-type">
+    <title>Регионы</title>
+  </head>
+  <body>
+    <h2 style="text-align: center;">Регионы</h2>
+    <p>Существуют два режима работы программы по регионам:</p>
+    <ol>
+      <li>Работа по Земле</li>
+      <li>Работа по Беларуси</li>
+    </ol>
+    <p>При запуске программы при помощи специальной формы устанавливается
+      первоначальный режим.</p>
+    <img title="Форма выбора региона" alt="Форма выбора региона" src="file://DataServer/Publish/Application/images/region.png">
+    <p>После выбора режима происходит загрузка соответствующих данных из БД и
+      соответствующей карты.</p>
+    <p>Для переключения режима необходимо воспользоватся меню <a href="commands.html">Commands</a>-&gt;<a
+
+        href="switch.html">Switch</a>.
+      <img title="Смена режима" alt="" src="file://DataServer/Publish/Application/images/switch.png"></p>
+    
+  </body>
+</html>

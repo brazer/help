@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta content="text/html; charset=windows-1251" http-equiv="content-type">
+    <title>Кнопка Filter</title>
+  </head>
+  <body>
+    <h3 style="text-align: center;">Кнопка Filter</h3>
+    <p>Данная кнопка позволяет вызвать форму Filter (<a title="фильтрация данных"
+        href="file://DataServer/Users/User/Documents/Help/filter.html">подробнее о
+        работе данной формы</a>).</p>
+  </body>
+</html>

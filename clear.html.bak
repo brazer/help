@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Кнопка Clear</title>
+    <meta content="Anatol Salanevich" name="author">
+    <meta content="BlueGriffon wysiwyg editor" name="generator">
+    <style type="text/css">
+      html {  
+        background-color: white;
+      }
+      
+      body {  
+        background-color: white;  
+        color: black;
+      }
+      
+      :link {  
+        color: #0000ee;
+      }
+      
+      :link:active {  
+        color: #ee0000;
+      }
+      
+      :link:visited {  
+        color: #551a8b;
+      }    
+    </style>
+  </head>
+  <body>
+    <h2 style="text-align: center;">Кнопка Clear</h2>
+    <p>Кнопка предназначена для очистки карты от эпицентров землетрясения. Это
+      может понадобится в случае, когда необходимо оставить на карте только
+      выделенный район с эпицентрами.</p>
+    Карта до нажатия кнопки Clear: <img title="Карта до нажатия кнопки Clear" alt="Карта до нажатия кнопки Clear"
+
+      src="file:////DATASERVER/Publish/Application/images/unclear.png"><br>
+    Карта после нажатия кнопки Clear: <img title="Карта после нажатия кнопки Clear"
+
+      alt="Карта после нажатия кнопки Clear" src="file:////DATASERVER/Publish/Application/images/clear.png">
+    
+  </body>
+</html>

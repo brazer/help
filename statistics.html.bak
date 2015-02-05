@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Кнопка Statistics</title>
+    <meta content="Anatol Salanevich" name="author">
+    <meta content="BlueGriffon wysiwyg editor" name="generator">
+    <style type="text/css">
+      html {  
+        background-color: white;
+      }
+      
+      body {  
+        background-color: white;  
+        color: black;
+      }
+      
+      :link {  
+        color: #0000ee;
+      }
+      
+      :link:active {  
+        color: #ee0000;
+      }
+      
+      :link:visited {  
+        color: #551a8b;
+      }
+    </style>
+  </head>
+  <body>
+    <h2 style="text-align: center;">Форма Statistics</h2>
+    <p>Форма Statistics отображает статистические данные по магнитуде и глубине.</p>
+    <img title="Форма статистики" alt="Форма статистики" src="//DATASERVER/Publish/Application/images/statistics.png">
+    <p>При нажатиии в форме кнопки "Save Diagram" диаграма, отображённая в
+      форме, будет сохранена в папке "ShapeFiles" в виде рисунка.&nbsp;</p>
+    <p>При нажатии кнопки "Report" статистические данные будут перенесены в
+      таблицу Excel с последующим построением диаграммы.</p>
+    <img title="Статистические данные в Excel" alt="Статистические данные в Excel"
+
+      src="file:////DATASERVER/Publish/Application/images/excel.png">
+    <p>Кнопка "OK" закрывает форму.</p>
+  </body>
+</html>

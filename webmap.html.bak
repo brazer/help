@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta content="text/html; charset=windows-1251" http-equiv="content-type">
+    <title>Карты Web map</title>
+  </head>
+  <body>
+    <p>В этой части меню можно загрузить выделенные сейсмические события в картах Google Maps и Google Earth.</p>
+    <p>В эту неё входят следующие кнопки:</p>
+    <ul type="disc">
+      <li><a href="load_google_maps.html">Кнопка Load Google Maps</a></li>
+      <li><a href="load_google_earth.html">Кнопка Load Google Earth</a></li>
+    </ul>
+  </body>
+</html>

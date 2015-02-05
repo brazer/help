@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta content="text/html; charset=windows-1251" http-equiv="content-type">
+    <title>Кнопка Save</title>
+  </head>
+  <body>
+    <h3 style="text-align: center;">Кнопка Save</h3>
+    <p>При нажатии данной кнопки слой будет сохранён в папку по умолчанию, т.е.
+      в «D:\ShapeFiles\» под именем «SampleShapefile». При этом данные
+      сейсмических событий на карте перестанут отображатся.<br>
+    </p>
+  </body>
+</html>
