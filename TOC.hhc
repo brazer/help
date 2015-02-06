@@ -115,6 +115,52 @@
 				<param name="Name" value="&Ecirc;&iacute;&icirc;&iuml;&ecirc;&agrave; Load Google Earth">
 				<param name="Local" value="load_google_earth.html">
 				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="&Ecirc;&agrave;&eth;&ograve;&ucirc; Google">
+				<param name="Local" value="web_map\google.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="&Ecirc;&agrave;&eth;&ograve;&ucirc; Bing">
+				<param name="Local" value="web_map\bing.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="&Ecirc;&agrave;&eth;&ograve;&ucirc; Here">
+				<param name="Local" value="web_map\here.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="&Ecirc;&agrave;&eth;&ograve;&ucirc; Open">
+				<param name="Local" value="web_map\open.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="&Ecirc;&iacute;&icirc;&iuml;&ecirc;&agrave; MapQuest Aerial">
+				<param name="Local" value="web_map\map_quest_aerial.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="&Ecirc;&iacute;&icirc;&iuml;&ecirc;&agrave; Offline">
+				<param name="Local" value="web_map\offline.html">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Dstrok;&aring;&aelig;&egrave;&igrave;&ucirc; (Modes)">
+			<param name="Local" value="map_modes.html">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="&Ecirc;&iacute;&icirc;&iuml;&ecirc;&agrave; (Navigation)">
+				<param name="Local" value="map_modes\navigation.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="&Ecirc;&iacute;&icirc;&iuml;&ecirc;&agrave; (Selection)">
+				<param name="Local" value="map_modes\selection.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="&Egrave;&ccedil;&igrave;&aring;&eth;&aring;&iacute;&egrave;&aring; (Measurement)">
+				<param name="Local" value="map_modes\measurement.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="&Egrave;&ccedil;&igrave;&aring;&iacute;&aring;&iacute;&egrave;&aring; &igrave;&agrave;&ntilde;&oslash;&ograve;&agrave;&aacute;&agrave; (Zooming)">
+				<param name="Local" value="map_modes\zooming.html">
+				</OBJECT>
 		</UL>
 		<LI> <OBJECT type="text/sitemap">
 			<param name="Name" value="&Iuml;&icirc;&igrave;&icirc;&ugrave;&uuml; (Help)">
